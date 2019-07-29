@@ -1,0 +1,8 @@
+Coordenadas do canhão1
+x | 20
+y | 14
+Coordenadas do canhão2
+x | 70
+y | 14
+Distancia percorrida pelo projectil (eixo dos xx): 70
+winner | Jogador 2
